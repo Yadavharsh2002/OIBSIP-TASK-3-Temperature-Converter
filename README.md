@@ -16,7 +16,7 @@ CSS3
 JavaScript
 
 Installation
-Clone the repository: git clone https://github.com/your-username/temperature-converter.git
+Clone the repository using git clone 
 Navigate to the project directory: cd temperature-converter
 Usage
 Open the index.html file in your preferred web browser to access the temperature converter website. Enter the temperature value and select the desired unit for conversion to view the converted temperature instantly.
